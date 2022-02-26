@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0xa5c6c9CC573c9Fa553520758A2E0d1D388DEbe6a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xa5c6c9cc573c9fa553520758a2e0d1d388debe6a",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
   },
   "NFT_NAME": "The Stripes NFT",
   "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/stewies-v2",
   "SHOW_BACKGROUND": true
 }

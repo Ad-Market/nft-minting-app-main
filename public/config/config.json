@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xa5c6c9CC573c9Fa553520758A2E0d1D388DEbe6a",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xa5c6c9cc573c9fa553520758a2e0d1d388debe6a",
+  "CONTRACT_ADDRESS": "0xC473756DD45e5Cd530112d012f5C3670fd792bD7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xc473756dd45e5cd530112d012f5c3670fd792bd7",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
     "ID": 4
   },
-  "NFT_NAME": "STEWIES",
-  "SYMBOL": "STEW!!",
-  "MAX_SUPPLY": 10,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "NFT_NAME": "Dead Habits Social Club",
+  "SYMBOL": "DHSC",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 8000000000000000,
+  "DISPLAY_COST": 0.008,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "OpenSea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/stewies-v2",
+  "MARKETPLACE_LINK": "",
   "SHOW_BACKGROUND": true
 }

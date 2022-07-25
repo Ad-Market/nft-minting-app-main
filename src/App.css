@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://i.imgur.com/Av7KkV2.jpg");
+    
+}
+@font-face {
+    font-family: 'retro';
+    src: url('./fonts/retro.ttf');
+}

@@ -1,0 +1,107 @@
+
+@font-face {
+    font-family: 'retro';
+    src: url('./fonts/retro.ttf');
+}
+
+
+.popup-content{
+    margin: auto;
+    background: rgb(255, 255, 255);
+    width: 50%;
+    padding: 5px;
+}
+
+
+.popup-arrow {
+    color: rgb(255, 255, 255);
+  }
+
+.header__logo{
+    height: 2.5vh;
+    padding-left: 10px;
+}
+
+.header > img{
+    height: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(
+     0deg,
+      transparent,
+      
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0));
+    height: 100px;
+    align-items: center;
+    max-width: 100vw;
+}
+
+.header:hover{
+    cursor: pointer;
+}
+
+
+
+.header__social{
+    padding-right: 20px;
+    color: aliceblue;
+    
+    
+}
+
+
+  .multi-button{
+    padding-left: 20px;
+    font-size: 5px;
+    color: aliceblue;
+    
+}
+
+
+
+.twitleft{
+    margin-right: 5px;
+}
+
+
+
+@media only screen and (min-width: 600px) {
+    .h3_retro__button{
+       
+        font-family: 'retro';
+        font-size: 24px;
+        margin-left: 10px;
+        cursor: pointer;
+        color: aliceblue;
+        background: none;
+        border-color: rgb(0, 255, 136);
+       }
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .h3_retro__button{
+        font:inherit;
+        font-family: 'retro';
+        font-size: 16px;
+        margin-left: 10px;
+        cursor: pointer;
+        color: aliceblue;
+        background: none;
+        border-color: rgb(0, 255, 200);
+       }
+}
+
+
+.button:hover{
+font-weight: 800;
+cursor: pointer;
+
+}
+
+

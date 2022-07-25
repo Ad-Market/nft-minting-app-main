@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: 'retro';
+    src: url('./fonts/retro.ttf');
+}
 
 
 body{

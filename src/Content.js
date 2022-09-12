@@ -25,7 +25,12 @@ const Content = () => {
             .deleteAll()
             .start();
   }}
+  
 />
+<div style={{display:"flex" ,flexDirection:"column" ,justifyContent:"center"}}>
+<strong style={{fontSize:"23px"}}>Mint will close after 24h</strong>
+<strong style={{fontSize:"23px"}}>Mint 9PM UTC</strong>
+</div>
     </div>
     </div>
     </div>
